@@ -1,0 +1,15 @@
+body {
+  margin: 2rem;
+  background-color: rgb(119, 46, 46);
+}
+
+.container{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.todo-list {
+  display: flex;
+  justify-content: center;
+}
